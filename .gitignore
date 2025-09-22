@@ -1,4 +1,5 @@
 hello-ignore.txt
+foo/
 # Logs
 logs
 *.log
